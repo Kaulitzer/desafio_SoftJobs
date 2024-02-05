@@ -1,6 +1,0 @@
-export * from './appError'
-export * from './badRequestError'
-export * from './forbiddenError'
-export * from './notFoundError'
-export * from './unauthorizedError'
-export * from './sequelize'
